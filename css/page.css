@@ -1,0 +1,14 @@
+@CHARSET "gbk";
+.titleleft {
+	margin: 10px 0px 10px 60px;
+	float:left;
+	}
+.titleright {
+	margin: 10px 60px 10px 0px;
+	float:right;
+	}
+#headtittle {
+	color:#1776f2;
+	font-size:14px;
+	font-family:  "Ó×Ô²", "Î¢ÈíÑÅºÚ","ËÎÌå", "ĞÂËÎÌå";
+}

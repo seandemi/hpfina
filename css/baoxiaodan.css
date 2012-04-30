@@ -1,0 +1,270 @@
+#regist .tab{margin-bottom:10px;border-bottom:1px solid #FFCC66;}
+#jiaotong
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+	margin-top: 10x;
+	width: 935px;
+	text-align: center;
+	border-collapse: collapse;
+}
+#jiaotong thead th.rounded-company
+{
+	background: #b9c9fe url('../img/left.png') left -1px no-repeat;
+}
+#jiaotong thead th.rounded-q4
+{
+	background: #b9c9fe url('../img/right.png') right -1px no-repeat;
+}
+#jiaotong th
+{
+	padding: 1px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #039;
+	background: #b9c9fe;
+}
+#jiaotong td
+{  
+	padding: 1px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+}
+#jiaotong tfoot td.rounded-foot-left
+{
+	background: #e8edff url('../img/botleft.png') left bottom no-repeat;
+}
+#jiaotong tfoot td.rounded-foot-right
+{
+	background: #e8edff url('../img/botright.png') right bottom no-repeat;
+}
+#jiaotong tbody tr:hover td
+{
+	background: #d0dafd;
+}
+
+#head2 {
+font-size:20px;
+font-family:KaiTi,楷体_GB2312,"Times New Roman";
+margin:0 auto;
+}
+
+#list
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 11px;
+	margin-top: 10x;
+	width: 935px;
+	text-align: center;
+	border-collapse: collapse;
+}
+#list thead th.rounded-company
+{
+	background: #b9c9fe url('../img/left.png') left -1px no-repeat;
+}
+#list thead th.rounded-q4
+{
+	background: #b9c9fe url('../img/right.png') right -1px no-repeat;
+}
+#list th
+{
+	padding: 1px;
+	font-weight: normal;
+	font-size: 13px;
+	color: #039;
+	background: #b9c9fe;
+}
+#list tbody td
+{  
+	padding: 1px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+	border:1px solid #b9c9fe;
+}
+#list tfoot td.rounded-foot-left
+{
+	background: #e8edff url('../img/botleft.png') left bottom no-repeat;
+}
+#list tfoot td.rounded-foot-right
+{
+	background: #e8edff url('../img/botright.png') right bottom no-repeat;
+}
+#list tbody tr:hover td
+{
+	background: #d0dafd;
+}
+/*备注框*/
+#list textarea{
+	width:450px;
+	height:50px;
+/*	background-image:url(images/inputbg.gif);*/
+	color:#666;
+	border:1px dotted #999666;
+	padding:3px 0px 0px 5px;}
+	
+}
+#beizhu{
+	margin-left:10px;
+}
+#list label {
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.btn-img{cursor:pointer;overflow:hidden;margin:0;padding:0;border:0;text-align:center;}
+.btn-regist{width:166px;height:32px;background:url(../img/bg_regist.jpg) no-repeat 0 0;font-size:14px;font-weight:bold;color:#fff;}
+
+#headline {
+font-size:20px;
+font-family:KaiTi,楷体_GB2312,"Times New Roman";
+float:center;
+}
+
+#tijiao
+{  
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 15px;
+	margin-top: 50x;
+	width: 800px;
+	text-align: center;
+	border-collapse: collapse;
+}
+#tijiao thead th.rounded-company
+{
+	background: #b9c9fe url('../img/left.png') left -1px no-repeat;
+}
+#tijiao thead th.rounded-q4
+{
+	background: #b9c9fe url('../img/right.png') right -1px no-repeat;
+}
+#tijiao th
+{
+	padding: 3px;
+	font-weight: normal;
+	font-size: 20px;
+	color: #039;
+	background: #b9c9fe;
+}
+#tijiao td
+{  
+	padding: 3px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+}
+#tijiao tfoot td.rounded-foot-left
+{
+	background: #e8edff url('../img/botleft.png') left bottom no-repeat;
+}
+#tijiao tfoot td.rounded-foot-right
+{
+	background: #e8edff url('../img/botright.png') right bottom no-repeat;
+}
+#tijiao tbody tr:hover td
+{
+	background: #d0dafd;
+}
+
+#tijiao .head{
+	font-size: 16px;
+   font-family:KaiTi,楷体_GB2312,"Times New Roman";
+	color:#fe1451;
+}
+
+/*时间插件*/
+pre{ padding: 20px; background-color: #ffffcc; border: solid 1px #fff; }
+
+			.wrapper{ background-color: #ffffff; width: 800px; border: solid 1px #eeeeee; padding: 20px; margin: 0 auto; }
+
+
+			.example-container p{ font-weight: bold; }
+
+			.example-container > dl dt{ font-weight: bold; height: 20px; }
+
+			.example-container > dl dd{ margin: -20px 0 10px 100px; border-bottom: solid 1px #fff; }
+
+			.example-container input{ width: 100px; }
+
+			.clear{ clear: both; }
+
+			#ui-datepicker-div, .ui-datepicker{ font-size: 80%; }
+
+			
+
+			/* css for timepicker */
+
+			.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+
+			.ui-timepicker-div dl { text-align: left; }
+
+			.ui-timepicker-div dl dt { height: 20px; margin-bottom: -20px;}
+
+			.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+
+			.ui-timepicker-div td { font-size: 90%; }
+
+			.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+/*tabe表格*/
+#display-tablle
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 15px;
+	margin-top: 10x;
+	width: 850px;
+	text-align: center;
+	border-collapse: collapse;
+}
+#display-tablle thead th.rounded-company
+{
+	background: #b9c9fe url('../img/left.png') left -1px no-repeat;
+}
+#display-tablle thead th.rounded-q4
+{
+	background: #b9c9fe url('../img/right.png') right -1px no-repeat;
+}
+#display-tablle th
+{
+	padding: 3px;
+	font-weight: normal;
+	font-size: 11px;
+	color: #039;
+	background: #b9c9fe;
+}
+#display-tablle td
+{  
+	padding: 3px;
+	background: #e8edff;
+	border-top: 1px solid #fff;
+	color: #669;
+}
+#display-tablle tfoot td.rounded-foot-left
+{
+	background: #e8edff url('../img/botleft.png') left bottom no-repeat;
+}
+#display-tablle tfoot td.rounded-foot-right
+{
+	background: #e8edff url('../img/botright.png') right bottom no-repeat;
+}
+#display-tablle tbody tr:hover td
+{
+	background: #d0dafd;
+}
+
+/*审批报销单*/
+
+.btn1_mouseout {
+ BORDER-RIGHT: #7EBF4F 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #7EBF4F 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#B3D997); BORDER-LEFT: #7EBF4F 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #7EBF4F 1px solid
+}
+.btn1_mouseover {
+ BORDER-RIGHT: #7EBF4F 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #7EBF4F 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#CAE4B6); BORDER-LEFT: #7EBF4F 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #7EBF4F 1px solid
+}
+
+.buttonstyle{
+	font-size: 12px; 
+	background: url(../img/bt.png); 
+	border: 0px; 
+	width: 75px; height: 20px;
+}

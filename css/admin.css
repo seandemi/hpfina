@@ -1,0 +1,121 @@
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "ËÎÌו";
+	font-size: 12px;
+}
+
+body {
+	background: #f9fcff;
+}
+
+ul {
+	list-style: none
+}
+
+a {
+	color: #000;
+	font-size: 12px;
+	text-decoration: none
+}
+
+a:hover {
+	font-size: 12px;
+	color: #ff0000;
+	TEXT-DECORATION:underline;
+}
+
+input,textarea,select {
+	font-size: 12px;;
+}
+
+.clear {
+	clear: both;
+}
+
+
+
+.login {
+	margin-top: 180px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	width: 440px;
+	height: 180px;
+	overflow: hidden;
+	background: url('../img/login_k_bg1.gif') repeat-x left top;
+}
+
+.login_bg {
+	margin: 7px;
+	padding: 2px;
+
+	height: 162px;
+	background: url('../img/login_k_bg2.gif') repeat-x left top
+}
+
+.login_bg2 {
+	background: #057fcc;
+	height: 150px;
+	padding-top: 12px;
+
+}
+
+.login_title {
+	padding-top: 40px;
+	background: url('../img/logintitlenew.gif') no-repeat 10px 5px;
+}
+
+
+.login form {
+	padding-left: 120px;
+	background: url(../img/login_icon.gif) no-repeat 15px center;
+	margin-top: 18px;
+}
+
+.login_left {
+	width: 195px;
+	float: left
+}
+
+.login_left p {
+	height: 28px;
+	line-height: 28px;
+}
+
+.login_left label {
+	display: block;
+	float: left;
+	width: 50px;
+	color: #FFFFFF;
+	text-align: right
+}
+
+.login_left .f {
+	width: 140px;
+	float: right
+}
+
+.login_right {
+	width: 84px;
+	float: right;
+	margin-right: 8px;
+	display: inline
+}
+
+.login h2 {
+	font-size: 12px;
+	padding: 5px;
+}
+
+.login form input {
+	padding: 3px 0
+}
+
+.login .btn {
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+	padding-top: 10px;
+}

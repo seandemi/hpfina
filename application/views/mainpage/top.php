@@ -1,0 +1,2 @@
+<div id="Qianbo_Full" style="display: none; margin: 0px auto; width: 969px;"></div> 
+   <div class="headertop"><span style="float: right; text-align: reght; padding-right: 20px;">»¶Ó­Äú!&nbsp;<font color="#ddee34"><?php echo $xingming; ?></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none;" href="<?=site_url('login/login_out/')?>">ÍË³öµÇÂ¼</a></span></div>

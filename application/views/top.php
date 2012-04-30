@@ -1,0 +1,2 @@
+<div id="Qianbo_Full" style="display: none; margin: 0px auto; width: 969px;"></div> 
+   <div class="headertop"><span style="float: left; text-align: left; padding-left: 20px;">欢迎您!&nbsp;<font color="#ddee34"><?php echo $xingming; ?></font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="text-decoration: none;" href="<?=site_url('login/login_out/')?>">退出登录</a></span><span style="float: right; text-align: right; padding-right: 20px;">上次登陆时间:<?php //echo $username; ?>&nbsp;&nbsp;&nbsp;上次登陆ip:<?php //echo $username; ?></span></div>

@@ -1,0 +1,44 @@
+/* menu */
+.bound{width:980px;margin:0 auto;}
+#banner{width:100%;z-index:-1;}
+#menu{ background:url(../../img/su/hw_000489.jpg) repeat-x 0 0; height:33px; min-width:1000px; width:auto; !important; margin:0px auto;}
+#menu ul {list-style-type:none;}
+#menu_gex{ margin:3px 0px 0px 20px; padding:0px;line-height:30px; display:inline-block; float:left; z-index:9999;}
+#menu_gex > li {font-size:14px;font-weight:bold;margin-left:30px;}
+#menu_gex a { color:#fff; text-decoration:none; }
+#IE_li{ cursor:pointer; float:left; position:relative; padding:0px 50px 0px 50px;}
+#menu_gex li a:hover {color:#EA5404;}
+#menu_gex .logo {background:transparent none repeat scroll 0% 0%; padding:0px; background-color:Transparent;}
+/* sub-menus*/
+#menu_gex ul { padding:0px; margin:0px; display:block; display:inline;}
+#menu_gex li ul { position:absolute; left:-10px; top:-3px; margin-top:33px;line-height:16px;background-image:url(../../img/su/bgmenu1.jpg); color:#0395CC; /* for IE */ display:none; z-index: 100;}
+#pt2{width:380px;}
+
+
+#menu_gex li:hover ul { display:block;list-style-type:none;}
+#menu_gex li ul li{ display:block; margin:5px 20px; padding: 5px 0px; border-top: dotted 1px #606060; list-style-type:none; font-family: "����";}
+#menu_gex li ul li:first-child { border-top: none; }
+#menu_gex li ul li a { display:block; color:#fff;}
+#menu_gex li ul li a:hover { color:#7FCDFE; }
+/* main submenu */
+#menu_gex #main { left:0px; top:-20px; padding-top:20px; background-color:#7cb7e3; color:#fff; z-index:999;}
+/* corners*/
+#menu_gex .corner_inset_left { position:absolute; top:0px; left:-12px;}
+#menu_gex .corner_inset_right { position:absolute; top:0px; left:180px;}
+#menu_gex .last { margin:0px; padding:0px; border:none; position:relative; border:none; height:0px;}
+#menu_gex .corner_left { position:absolute; left:0px; top:0px;}
+#menu_gex .corner_right {position:absolute; left:162px; top:0px;}
+#menu_gex .middle { position:absolute; left:18px; height: 18px; width:145px; top:0px;}
+.project_ul{position:absolute; left:-10px; top:0px; margin-top:33px;width:400px; line-height:16px;background-image:url(../../img/su/bgmenu1.jpg); color:#0395CC; /* for IE */ display:none;}
+
+#menu_gex .corner_right1{position:absolute; left:362px; top:0px;}
+#menu_gex .corner_inset_right1{ position:absolute; top:0px; left:380px;}
+#menu_gex .middle1 { position:absolute; left:18px; height: 18px; width:345px; top:0px;}
+
+#menu_gex .corner_right2{position:absolute; left:372px; top:0px;}
+#menu_gex .corner_inset_right2{ position:absolute; top:0px; left:390px;}
+#menu_gex .middle2{ position:absolute; left:18px; height: 18px; width:355px; top:0px;}
+
+#menu_gex .corner_right5{position:absolute; left:472px; top:0px;}
+#menu_gex .corner_inset_right5{ position:absolute; top:0px; left:490px;}
+#menu_gex .middle5{ position:absolute; left:18px; height: 18px; width:455px; top:0px;}
